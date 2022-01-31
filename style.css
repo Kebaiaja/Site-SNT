@@ -1,0 +1,27 @@
+h1
+{
+    color: #fdfd96
+}
+body
+{
+    background-image: url('https://thumbs.gfycat.com/ClearCarelessBeagle-max-1mb.gif');
+    background-position: top;
+    background-size: cover;
+}
+#carte
+
+{
+    width: 800px;
+
+    margin:0 auto;
+    
+    background-color: #fee7f000;
+    
+    text-align: center;
+    
+    align-content: center;
+}
+p
+{
+    color: #f3f3a0
+}
